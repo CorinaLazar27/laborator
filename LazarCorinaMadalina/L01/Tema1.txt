@@ -1,0 +1,5 @@
+
+Power BI este un serviciu de business intelligence furnizat de Microsoft.
+El permite colectarea de date din mai multe surse, analizarea lor, construirea de rapoarte si partajarea lor.
+Datele se pot prelua din Excel, document text sau CSV, XML, JSON, Access database si multe altele. 
+Microsoft Power BI Service este un Saas.
